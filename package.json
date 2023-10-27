@@ -1,6 +1,6 @@
 {
   "name": "memer-api-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Image Manipulation API with over 50 commands for creating and sharing funny memes.",
   "main": "index.js",
   "author": "k4itrun#6889",
