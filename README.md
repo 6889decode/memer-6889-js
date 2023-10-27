@@ -1,3 +1,11 @@
+<p align="center">
+   <img src="https://img.shields.io/npm/dt/memer-api-js?style=for-the-badge">
+   <img src="https://img.shields.io/npm/v/memer-api-js?style=for-the-badge">
+   <img src="https://img.shields.io/github/stars/k4itrun/memer-api-js.svg?style=for-the-badge">
+   <img src="https://img.shields.io/github/license/k4itrun/memer-api-js.svg?style=for-the-badge">
+   <img src="https://img.shields.io/github/issues/k4itrun/memer-api-js.svg?style=for-the-badge">
+</p>
+
 ### Installation
 
 1. Get a free API Key at our 
@@ -42,7 +50,7 @@ The Memer API enforces a rate limit of one request every 5 seconds, allowing for
 <!-- !! ROADMAP !! -->
 ## Roadmap
 
-For a list of proposed features and known issues, please visit the [open issues](https://github.com/Yash094/Memer-API-js/issues) section.
+For a list of proposed features and known issues, please visit the [open issues](https://github.com/k4itrun/Memer-API-js/issues) section.
 
 
 
