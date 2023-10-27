@@ -1,0 +1,58 @@
+{
+  "name": "memer-api-js",
+  "version": "1.0.0",
+  "description": "An Image Manipulation API with over 50 commands for creating and sharing funny memes.",
+  "main": "index.js",
+  "author": "k4itrun#6889",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/MemerDevelopmentSpanish",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:k4itrun/memer-api-js.git"
+  },
+  "scripts": {
+    "start": "node index.js"  
+  },
+  "keywords": [
+    "funny content",
+    "meme creator",
+    "meme repository",
+    "visual humor",
+    "funny pictures",
+    "memerapi.js",
+    "image-meme",
+    "meme generator",
+    "memes",
+    "discord",
+    "discord.js-meme",
+    "image-memer",
+    "meme imgen",
+    "custom memes",
+    "humor API",
+    "viral images",
+    "graphic comedy",
+    "meme library",
+    "humorous content creation",
+    "memes and laughter",
+    "viral image API",
+    "online humor",
+    "memer image manipulation",
+    "memerapi",
+    "memer-api"
+  ],
+  "dependencies": {
+    "discord.js": "^14.5.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/k4itrun/memer-api-js/issues"
+  }
+}
