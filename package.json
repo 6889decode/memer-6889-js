@@ -6,7 +6,6 @@
   "author": "k4itrun#6889",
   "license": "GPL-3.0",
   "homepage": "https://github.com/MemerDevelopmentSpanish",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:k4itrun/memer-api-js.git"
