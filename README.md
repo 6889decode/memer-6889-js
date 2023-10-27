@@ -4,7 +4,11 @@
    <img src="https://img.shields.io/github/stars/k4itrun/memer-api-js.svg?style=for-the-badge">
    <img src="https://img.shields.io/github/license/k4itrun/memer-api-js.svg?style=for-the-badge">
    <img src="https://img.shields.io/github/issues/k4itrun/memer-api-js.svg?style=for-the-badge">
+   <a href="https://discord.gg/invite/kCdYrAJF8y"><br/><img src="https://badgen.net/discord/online-members/kCdYrAJF8y" alt="Discord"></a>
 </p>
+
+> **Memer-api-js is a robust module that makes image manipulation incredibly straightforward and efficient.**
+
 
 ### Installation
 
@@ -19,7 +23,6 @@ const Meme = require("memer-api-js");
 const memer = new Meme('Your Cool API Key');  // Obtained from Memer API Server
 memer.<Method>(<Options>); // Returns a Promise with a <Buffer>
 ```
-
 
 
 <!-- !! USAGE EXAMPLES !! -->
@@ -43,15 +46,29 @@ memer.youtube(avatar, 'Memer Api', text).then(image => {
 _For more examples and detailed usage, please refer to the [Documentation](https://memer-api-js.js.org)_
 
 
+## LINKS
+
+- 📃 Guide/Docs: [Documentation](https://memer-api-js.js.org/)
+- 💬 Discord: [Server](https://discord.com/invite/kCdYrAJF8y)
+
+
+## Features
+
+- Super simple and easy to use.
+- More than 50+ methods
+- Easy to Implement.
+- Great support and flexible.
+
+
 <!-- !! LIMITS !! -->
 ## Ratelimits
 The Memer API enforces a rate limit of one request every 5 seconds, allowing for one image request every 5 seconds. To bypass this limit, you can consider upgrading to a premium plan. 
+
 
 <!-- !! ROADMAP !! -->
 ## Roadmap
 
 For a list of proposed features and known issues, please visit the [open issues](https://github.com/k4itrun/Memer-API-js/issues) section.
-
 
 
 <!-- !! CONTRIBUTING !! -->
@@ -70,7 +87,6 @@ Contributions are highly valued and greatly appreciated in the open-source commu
 ## Contact
 
 Project Link: [Memer-Api-js GitHub](https://github.com/k4itrun/Memer-API-js)
-
 
 
 <!-- !! CREDITS !! -->
