@@ -1,5 +1,5 @@
 // Import the Memer library and package version
-const Memer = require('./lib/memer-api.js');
+const Memer = require('./lib/memer.js');
 const { version } = require('./package.json');
 
 function Meme(token) {
