@@ -43,12 +43,12 @@ memer.youtube(avatar, 'Memer Api', text).then(image => {
     <channel>.send(attachment)
 })
 ```
-_For more examples and detailed usage, please refer to the [Documentation](https://memer-api-js.js.org)_
+_For more examples and detailed usage, please refer to the [Documentation](https://memer-6889.js.org/)_
 
 
 ## LINKS
 
-- 📃 Guide/Docs: [Documentation](https://memer-api-js.js.org/)
+- 📃 Guide/Docs: [Documentation](https://memer-6889.js.org/)
 - 💬 Discord: [Server](https://discord.com/invite/kCdYrAJF8y)
 
 
