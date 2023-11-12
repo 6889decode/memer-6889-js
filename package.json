@@ -1,11 +1,11 @@
 {
   "name": "memer-api-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Image Manipulation API with over 50 commands for creating and sharing funny memes.",
   "main": "index.js",
   "author": "k4itrun#6889",
   "license": "MIT",
-  "homepage": "https://github.com/MemerDevelopmentSpanish",
+  "homepage": "https://github.com/6889decode",
   "repository": {
     "type": "git",
     "url": "git@github.com:k4itrun/memer-api-js.git"
